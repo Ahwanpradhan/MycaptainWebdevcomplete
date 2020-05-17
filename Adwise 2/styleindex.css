@@ -1,0 +1,87 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-nav{
+	margin: 10px
+}
+
+ #login{
+ 	margin-left: 400px
+ }
+ 
+header{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgb(0, 0, 0,0.7)),url('images/bgimg.jpg');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.maintext h1{
+	color: white; 
+	position: absolute;
+	top: 50%;
+	left: 28%;
+	transform: translate(-50%,-50%);
+	font-weight:bold;
+	font-size: 48px;
+}
+
+.maintext ul{
+	margin-top: 10.5em;
+	margin-left: 26em;
+}
+.maintext ul li{
+	list-style:none;
+	color: white;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.appuse{
+	margin-top: 20%;
+}
+
+.appuse div{
+	border: 1px solid orange;
+	display: inline-block;
+	border-radius:50%;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+}
+
+.appuse img{
+	height: 40px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+.review{
+	color: black;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background-attachment: fixed;
+}
+
+.review p{
+	line-height: 20x;
+	text-align: justify;
+	font-size: 18px;
+	margin-top:40px;
+}
+
+.review cite img{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-right: 10px;
+}
+
+.review h6{
+	margin-left: 55px;
+}

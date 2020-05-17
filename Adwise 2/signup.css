@@ -1,0 +1,9 @@
+.formbox{
+	display: block;
+	background: #9fa8a3;
+	border-radius: 2%;
+	float: right;
+	padding: 100px;
+	color: white;
+	height: 40%;
+}
